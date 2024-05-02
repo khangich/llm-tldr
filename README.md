@@ -41,6 +41,8 @@ curl -X POST "https://api.openai.com/v1/chat/completions" \
 ```
 
 
+[Github Workspace][https://github.com/codespaces/new/khangich/llm-tldr]
+
 ## ReAct (Shunyu Yao 2023) 
 
 Paper: [ReAct](https://arxiv.org/pdf/2210.03629)
