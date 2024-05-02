@@ -10,14 +10,14 @@ A new prompting technique to improve LLM reasoning performance.
 
 - Example 1: 
 
-![Screenshot 2024-05-02 at 14 00 56](https://github.com/khangich/llm-tldr/assets/1975237/70ee1c21-17ea-4269-9c4e-c0b5152e38b3=250x)
+![Screenshot 2024-05-02 at 14 00 56](https://github.com/khangich/llm-tldr/assets/1975237/70ee1c21-17ea-4269-9c4e-c0b5152e38b3=150x)
 
 
 - Example 2:
 
-![Screenshot 2024-05-02 at 14 03 15](https://github.com/khangich/llm-tldr/assets/1975237/eaf4468e-7a99-4b1e-b11b-3e010992c7c7 | width=50%)
+![Screenshot 2024-05-02 at 14 03 15](https://github.com/khangich/llm-tldr/assets/1975237/eaf4468e-7a99-4b1e-b11b-3e010992c7c7=150x)
 
 - Result: for Math, CoT can improve 2x solve rate
 
 
-![Screenshot 2024-05-02 at 14 06 24](https://github.com/khangich/llm-tldr/assets/1975237/a05711fb-3e79-4acd-b20d-b93b2f053060 | width=50%)
+![Screenshot 2024-05-02 at 14 06 24](https://github.com/khangich/llm-tldr/assets/1975237/a05711fb-3e79-4acd-b20d-b93b2f053060=150x)
