@@ -10,7 +10,7 @@ A new prompting technique to improve LLM reasoning performance.
 
 - Example 1: 
 
-![Screenshot 2024-05-02 at 14 00 56](https://github.com/khangich/llm-tldr/assets/1975237/70ee1c21-17ea-4269-9c4e-c0b5152e38b3 =250x)
+![Screenshot 2024-05-02 at 14 00 56](https://github.com/khangich/llm-tldr/assets/1975237/70ee1c21-17ea-4269-9c4e-c0b5152e38b3=250x)
 
 
 - Example 2:
