@@ -39,3 +39,28 @@ curl -X POST "https://api.openai.com/v1/chat/completions" \
                 "stop": null
              }'
 ```
+
+
+## ReAct (Shunyu Yao 2023) 
+
+Paper: [ReAct](https://arxiv.org/pdf/2210.03629)
+
+- Example 1:
+- Example 2:
+- Result
+- Weblink diagram
+
+```
++-------------------+      +-------------------+      +-------------------+
+|   Reset Env with  |      |   Generate Thought|      |   Execute Action  |
+|   Question (idx)  |----->|   & Action using  |----->|   in Environment  |
+|                   |      |   LLM Function    |      |   & Get Obs       |
++-------------------+      +-------------------+      +-------------------+
+           |                        |                          |
+           |                        |                          |
+           v                        v                          v
++-------------------+      +-------------------+      +-------------------+
+|   Update Prompt   |<-----|   Format Response |<-----|   Check if Done   |
+|   with Question   |      |   & Handle Errors |      |   & Update Prompt |
++-------------------+      +-------------------+      +-------------------+
+```
