@@ -1,7 +1,7 @@
 # llm-tldr
 Short description of LLM research and development
 
-# Paper
+# Papers
 ## Chain of Thought (Jason Wei 2023) 
 
 Paper: [Chain Of Thought](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
